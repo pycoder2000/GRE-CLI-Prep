@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A simple tool to prepare for GRE using Command Line Terminal.<br>
+  A simple tool to prepare for GRE using Command Line Terminal.<br><br>
   The word lists are provided by <a href="https://www.jamboreeindia.com/downloads/GRE-Vocabulary-jamboree.pdf">Jamboree</a>. It was originally inspired by another Github project which I can't find anymore.
 </p>
 
@@ -14,7 +14,7 @@
 </div>
 
 ![demo](https://github.com/pycoder2000/GRE-CLI-Prep/raw/main/demo.png)
-
+<br>
 ## 🛠 Installation & Set Up
 
 1. Clone this repository
@@ -41,7 +41,7 @@
    # Add the line below to your .bashrc or .zshrc file (only on MacOS)
    alias gre = 'python <path to folder>/vocab.py'
    ```
-
+<br>
 ## 🪜 Folder Structure
 
 ```bash
@@ -64,14 +64,10 @@
 │   └── 📝 list14.py
 └── 📝 vocab.py
 ```
-
+<br>
 ## 🔗 Links
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lone_Musk) [![github](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pycoder2000) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-desai-2bb1b0160/)
-
-## ©️ License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## 🍰 Contributing
 
@@ -99,6 +95,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <a href="https://makeapullrequest.com" target="blank" >![PRs Welcome](https://img.shields.io/badge/PR-Welcome-brightgreen?style=for-the-badge)</a>
 
-</div>
-
 **Don't forget to give the project a star! Thanks again!**
+</div>
