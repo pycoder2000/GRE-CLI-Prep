@@ -35,6 +35,13 @@
    python vocab.py
    ```
 
+4. Add alias to terminal(optional)
+
+   ```sh
+   # Add the line below to your .bashrc or .zshrc file (only on MacOS)
+   alias gre = 'python <path to folder>/vocab.py'
+   ```
+
 ## 🪜 Folder Structure
 
 ```bash
