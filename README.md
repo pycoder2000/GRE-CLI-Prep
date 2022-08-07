@@ -15,6 +15,7 @@
 
 ![demo](https://github.com/pycoder2000/GRE-CLI-Prep/raw/main/demo.png)
 <br>
+
 ## 🛠 Installation & Set Up
 
 1. Clone this repository
@@ -42,6 +43,7 @@
    alias gre = 'python <path to folder>/vocab.py'
    ```
 <br>
+
 ## 🪜 Folder Structure
 
 ```bash
@@ -65,9 +67,12 @@
 └── 📝 vocab.py
 ```
 <br>
+
 ## 🔗 Links
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lone_Musk) [![github](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pycoder2000) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-desai-2bb1b0160/)
+
+<br>
 
 ## 🍰 Contributing
 
