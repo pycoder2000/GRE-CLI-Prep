@@ -83,9 +83,10 @@ def RandomRevision():
     while key_pressed.lower() != "q":
         RandomList = Lists[random.choice(ListOfLists)]
         RandomMeaning = random.choice(list(RandomList.keys()))
+        RandomSynonym = random.choice(list(RandomList[RandomMeaning]))
         Synonyms = RandomList[RandomMeaning]
 
-        print("\nDo you know {} ?".format(RandomMeaning))
+        print("\nDo you know {} ?".format(RandomSynonym))
         key_pressed = input()
         if key_pressed.lower() == "q":
             clear_output()
