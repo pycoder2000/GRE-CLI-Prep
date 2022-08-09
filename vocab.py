@@ -197,7 +197,7 @@ def MCQTest():
             break
         else:
             print("Invalid choice! Enter numerical input.")
-            NoOfQuestions = input("\nHow many words do you want in the test : ")
+            NoOfQuestions = input("\nHow many words do you want to revise in the test : ")
     print()
     for i in range(NoOfQuestions):
         print("-------------------------------------")
@@ -258,7 +258,7 @@ def MCQTest():
 
             Options.append(RandomSynonym)
             random.shuffle(Options)
-            print("\nWhat word descibes {}?".format(RandomMeaning))
+            print('\nWhat word descibes "{}"?'.format(RandomMeaning))
             for option in Options:
                 print("\n{}. {}".format(str(Options.index(option) + 1), option))
 
@@ -324,7 +324,7 @@ def WrittenTest():
             break
         else:
             print("Invalid choice! Enter numerical input.")
-            NoOfQuestions = input("\nHow many words do you want in the test : ")
+            NoOfQuestions = input("\nHow many words do you want to revise in the test : ")
     print()
     for i in range(NoOfQuestions):
         print("-------------------------------------")
@@ -385,7 +385,7 @@ def WrittenTest():
 
 def printMenu():
     print("------------------------------------")
-    print("Please Enter Number: ")
+    print("Please enter a number: ")
     print("1. Full Revision")
     print("2. Random Revision")
     print("3. Revision With Meaning Only")
